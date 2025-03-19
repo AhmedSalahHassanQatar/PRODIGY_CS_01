@@ -54,10 +54,6 @@ Using the `cd` (change directory) command, navigate to the folder where the Pyth
 ```cmd
 cd C:\Users\YourName\Documents\PythonScripts
 
-- **macOS/Linux**:
- python caesar_cipher.py
-
-
 ### 5. Run the Python Script
 Once you’re in the correct directory, run the script by typing:
 
