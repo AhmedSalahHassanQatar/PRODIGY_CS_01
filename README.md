@@ -59,8 +59,8 @@ python caesar_cipher.py
 
 When prompted, enter the message you want to encrypt and the shift value. For example:
 
-    `Message: HELLO WORLD` 
-    `Shift Value: 3`
+    Message: HELLO WORLD
+    Shift Value: 3
 
 The program will output the encrypted and decrypted messages.
 ### Expected Output Example:
@@ -74,7 +74,6 @@ Decrypted Message: HELLO WORLD
 
     If Python is not recognized, ensure it is properly installed and added to your system's PATH.
     If you encounter any errors, double-check the Python script for syntax or logic errors.
----
 
 ### **Author**  
 👤 **Ahmed Qatar**  
