@@ -52,11 +52,9 @@ Before running the code, ensure that you have Python installed. If not, follow t
 ### 4. Navigate to the Folder Containing the Code
 Using the `cd` (change directory) command, navigate to the folder where the Python script is saved. For example:
 - **Windows**:
-  ```cmd
- cd C:\Users\YourName\Documents\PythonScripts  
+  ```cmd cd C:\Users\YourName\Documents\PythonScripts  
 - **macOS/Linux**:
-  ```bash 
- cd /Users/YourName/Documents/PythonScripts
+  ```bash cd /Users/YourName/Documents/PythonScripts
 
 ### 5. Run the Python Script
 Once you’re in the correct directory, run the script by typing:
@@ -82,7 +80,7 @@ Enter shift value: 3
 Encrypted Message: KHOOR ZRUOG
 Decrypted Message: HELLO WORLD
 
-Troubleshooting Tips
+### Troubleshooting Tips
 
     If Python is not recognized, ensure it is properly installed and added to the system's PATH.
     If you encounter any errors, double-check the Python script for syntax or logic errors.
