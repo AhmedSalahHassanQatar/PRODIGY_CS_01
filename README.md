@@ -1,10 +1,6 @@
 # PRODIGY_CS_01
 
-## Task-01: Implement Caesar Cipher  
-
-
-# Caesar Cipher Python Implementation
-
+## Task-01: Caesar Cipher Python Implementation
 ### Introduction
 The PRODIGY_CS_01 project implements the Caesar Cipher algorithm, a simple encryption technique used to encode and decode messages by shifting each letter in the text by a fixed number of positions in the alphabet. This program allows users to input a plaintext message along with a shift value, and it outputs the encrypted message (ciphertext) and can also decrypt it back to the original text using the same shift value. The goal of this project is to demonstrate the basic principles of cryptography through hands-on implementation in Python.
 
