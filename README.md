@@ -53,22 +53,21 @@ Before running the code, ensure that you have Python installed. If not, follow t
 Using the `cd` (change directory) command, navigate to the folder where the Python script is saved. For example:
 - **Windows**:
   ```cmd
-  cd C:\Users\YourName\Documents\PythonScripts  
-macOS/Linux:
+ cd C:\Users\YourName\Documents\PythonScripts  
+- **macOS/Linux**:
+  ```bash 
+ cd /Users/YourName/Documents/PythonScripts
 
-    cd /Users/YourName/Documents/PythonScripts
-
-5. Run the Python Script
-
+### 5. Run the Python Script
 Once you’re in the correct directory, run the script by typing:
 
-python caesar_cipher.py
+`python caesar_cipher.py`
 
 Note: On some systems (especially macOS/Linux), you might need to use python3 instead of python:
 
-python3 caesar_cipher.py
+`python3 caesar_cipher.py`
 
-6. Input the Message and Shift Value
+### 6. Input the Message and Shift Value
 
 When prompted, enter the message you want to encrypt and the shift value. For example:
 
