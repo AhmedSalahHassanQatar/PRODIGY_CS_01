@@ -69,11 +69,6 @@ The program will output the encrypted and decrypted messages.
 |-----------------|-------------------|-------------------|------------------|
 | `HELLO WORLD`   | `3`               | `KHOOR ZRUOG`     | `HELLO WORLD`    |
 
-### Troubleshooting Tips
-
-    If Python is not recognized, ensure it is properly installed and added to your system's PATH.
-    If you encounter any errors, double-check the Python script for syntax or logic errors.
-
 ### **Author**  
 👤 **Ahmed Qatar**  
 🔗 [LinkedIn](https://www.linkedin.com/in/ahmedsalahqatar)  
