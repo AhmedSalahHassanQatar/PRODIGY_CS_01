@@ -54,9 +54,42 @@ Using the `cd` (change directory) command, navigate to the folder where the Pyth
 - **Windows**:
   ```cmd
   cd C:\Users\YourName\Documents\PythonScripts  
-.  
+macOS/Linux:
 
----
+    cd /Users/YourName/Documents/PythonScripts
+
+5. Run the Python Script
+
+Once you’re in the correct directory, run the script by typing:
+
+python caesar_cipher.py
+
+Note: On some systems (especially macOS/Linux), you might need to use python3 instead of python:
+
+python3 caesar_cipher.py
+
+6. Input the Message and Shift Value
+
+When prompted, enter the message you want to encrypt and the shift value. For example:
+
+    Message: HELLO WORLD
+    Shift value: 3
+
+The program will output the encrypted and decrypted messages.
+Expected Output Example:
+
+Enter your message: HELLO WORLD
+Enter shift value: 3
+Encrypted Message: KHOOR ZRUOG
+Decrypted Message: HELLO WORLD
+
+Troubleshooting Tips
+
+    If Python is not recognized, ensure it is properly installed and added to the system's PATH.
+    If you encounter any errors, double-check the Python script for syntax or logic errors.
+
+
+Simply copy and paste this content into your `README.md` file in your GitHub repository. This will provide clear instructions for anyone who wants to run your code. Let me know if you need further changes!
 
 ### **Author**  
 👤 **Ahmed Qatar**  
