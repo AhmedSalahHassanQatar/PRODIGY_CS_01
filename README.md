@@ -12,6 +12,22 @@ Allow users to input a message and a shift value to perform encryption and decry
 
 This repository contains a simple Python program that implements the Caesar Cipher encryption and decryption.
 
+### How It Works  
+- The user provides a **message** (plaintext).
+- A **shift value** (key) is applied to shift each letter.
+- The program outputs the **encrypted message**.
+- The same shift value is used to decrypt the message.
+
+### Sample Dataset  
+
+| Input Message  | Shift Value | Encrypted Output | Decrypted Output |
+|---------------|------------|------------------|------------------|
+| `HELLO WORLD` | `3`        | `KHOOR ZRUOG`    | `HELLO WORLD`    |
+| `CYBERSECURITY` | `5`      | `HDGJWXJXZWNFY`  | `CYBERSECURITY`  |
+| `ATTACK AT DAWN` | `7`    | `HAAPJH HA KHDU` | `ATTACK AT DAWN` |
+
+---
+
 ## How to Run the Code
 
 Follow these steps to run the Python program:
@@ -37,26 +53,8 @@ Before running the code, ensure that you have Python installed. If not, follow t
 Using the `cd` (change directory) command, navigate to the folder where the Python script is saved. For example:
 - **Windows**:
   ```cmd
-  cd C:\Users\YourName\Documents\PythonScripts
-### How It Works  
-- The user provides a **message** (plaintext).
-- A **shift value** (key) is applied to shift each letter.
-- The program outputs the **encrypted message**.
-- The same shift value is used to decrypt the message.
-
-### Sample Dataset  
-
-| Input Message  | Shift Value | Encrypted Output | Decrypted Output |
-|---------------|------------|------------------|------------------|
-| `HELLO WORLD` | `3`        | `KHOOR ZRUOG`    | `HELLO WORLD`    |
-| `CYBERSECURITY` | `5`      | `HDGJWXJXZWNFY`  | `CYBERSECURITY`  |
-| `ATTACK AT DAWN` | `7`    | `HAAPJH HA KHDU` | `ATTACK AT DAWN` |
-
----
-
-### How to Run the Code (Coming Soon...)  
-
-This section will be updated after implementing the Python program.  
+  cd C:\Users\YourName\Documents\PythonScripts  
+.  
 
 ---
 
