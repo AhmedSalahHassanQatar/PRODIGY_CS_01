@@ -77,8 +77,9 @@ Decrypted Message: HELLO WORLD
 
     If Python is not recognized, ensure it is properly installed and added to your system's PATH.
     If you encounter any errors, double-check the Python script for syntax or logic errors.
-Author
+---
 
-### 👤 Ahmed Qatar
-🔗 https://www.linkedin.com/in/ahmedsalahqatar
-🔗 https://ahmedqatar-seclab.renderforestsites.com
+### **Author**  
+👤 **Ahmed Qatar**  
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmedsalahqatar)  
+🌐 [Ahmed Qatar's Sec Lab](https://ahmedqatar-seclab.renderforestsites.com/)
