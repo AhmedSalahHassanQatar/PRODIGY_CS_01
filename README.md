@@ -65,10 +65,9 @@ When prompted, enter the message you want to encrypt and the shift value. For ex
 The program will output the encrypted and decrypted messages.
 ### Expected Output Example:
 
-Enter your message: HELLO WORLD
-Enter shift value: 3
-Encrypted Message: KHOOR ZRUOG
-Decrypted Message: HELLO WORLD
+| Input Message   | Enter shift Value | Encrypted Message | Decrypted Message|
+|-----------------|-------------------|-------------------|------------------|
+| `HELLO WORLD`   | `3`               | `KHOOR ZRUOG`     | `HELLO WORLD`    |
 
 ### Troubleshooting Tips
 
