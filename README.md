@@ -87,9 +87,6 @@ Troubleshooting Tips
     If Python is not recognized, ensure it is properly installed and added to the system's PATH.
     If you encounter any errors, double-check the Python script for syntax or logic errors.
 
-
-Simply copy and paste this content into your `README.md` file in your GitHub repository. This will provide clear instructions for anyone who wants to run your code. Let me know if you need further changes!
-
 ### **Author**  
 👤 **Ahmed Qatar**  
 🔗 [LinkedIn](https://www.linkedin.com/in/ahmedsalahqatar
