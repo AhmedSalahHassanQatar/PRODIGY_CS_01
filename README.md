@@ -5,10 +5,7 @@
 
 # Caesar Cipher Python Implementation
 
-This repository contains a Python program that implements the **Caesar Cipher** algorithm, a simple encryption and decryption technique that shifts each letter of the message by a certain number of positions in the alphabet. The user can input a message and a shift value to encrypt or decrypt the text.
-
 ### Introduction
-
 The PRODIGY_CS_01 project implements the Caesar Cipher algorithm, a simple encryption technique used to encode and decode messages by shifting each letter in the text by a fixed number of positions in the alphabet. This program allows users to input a plaintext message along with a shift value, and it outputs the encrypted message (ciphertext) and can also decrypt it back to the original text using the same shift value. The goal of this project is to demonstrate the basic principles of cryptography through hands-on implementation in Python.
 
 ### How It Works
