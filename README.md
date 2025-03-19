@@ -53,6 +53,7 @@ Before running the code, ensure that you have Python installed. If not, follow t
 Using the `cd` (change directory) command, navigate to the folder where the Python script is saved. For example:
 ```cmd
 cd C:\Users\YourName\Documents\PythonScripts
+
 - **macOS/Linux**:
  python caesar_cipher.py
 
